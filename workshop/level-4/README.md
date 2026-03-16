@@ -1,6 +1,6 @@
 ---
 layout: step
-title: "Level 4: Create — Make Your First Changes"
+title: "Create — Make Your First Changes"
 step_number: 4
 permalink: /steps/4/
 ---
@@ -874,4 +874,4 @@ Rate yourself on each skill (1 = shaky, 3 = confident):
 
 **Level 5: Execute — Run Commands Through Copilot** lets Copilot run tests, builds, and linters, then interpret the results and make targeted fixes. You'll learn how tool execution chains work.
 
-→ Continue to `workshop/level-5/README.md`
+→ [Continue to Level 5: Execute →](/steps/5/)

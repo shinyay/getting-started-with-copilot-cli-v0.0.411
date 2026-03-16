@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 5 — Command Execution Cheat Sheet"
+parent_step: 5
+permalink: /cheatsheet/5/
+---
+
 # Level 5 Cheat Sheet — Command Execution
 
 ## Bash Tool Approval

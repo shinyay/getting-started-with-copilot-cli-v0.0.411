@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 7 — Customization Cheat Sheet"
+parent_step: 7
+permalink: /cheatsheet/7/
+---
+
 # Level 7 Cheat Sheet — Customization & Configuration
 
 ## Custom Instructions Location

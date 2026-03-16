@@ -1,6 +1,6 @@
 ---
 layout: step
-title: "Level 5: Execute — Run Commands Through Copilot"
+title: "Execute — Run Commands"
 step_number: 5
 permalink: /steps/5/
 ---
@@ -992,4 +992,4 @@ Rate yourself on each skill (1 = shaky, 3 = confident):
 
 **Level 6: Workflow — The Full Plan → Execute → Review Cycle** combines everything from Levels 1–5 into complete development workflows: building features from scratch, debugging production-like issues, and using Copilot as a true development partner.
 
-→ Continue to `workshop/level-6/README.md`
+→ [Continue to Level 6: Workflow →](/steps/6/)

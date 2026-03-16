@@ -1,6 +1,6 @@
 ---
 layout: step
-title: "Level 1: Observe — Read-Only Exploration (No Risk)"
+title: "Observe — Read-Only Exploration"
 step_number: 1
 permalink: /steps/1/
 ---
@@ -840,4 +840,4 @@ Rate yourself on each skill (1 = shaky, 3 = confident):
 
 **Level 2: Understand — Ask Questions & Get Explanations** takes everything you learned here and levels up to cross-file analysis, dependency mapping, and code understanding patterns.
 
-→ Continue to `workshop/level-2/README.md`
+→ [Continue to Level 2: Understand →](/steps/2/)
