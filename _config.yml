@@ -1,0 +1,28 @@
+remote_theme: shinyay/workshop-pages-theme
+title: "Getting Started with Copilot CLI"
+description: "A progressive 8-level curriculum for mastering GitHub Copilot CLI — from first launch to advanced automation and delegation. 96 exercises across 9-13 hours."
+author: "shinyay"
+
+plugins:
+  - jekyll-remote-theme
+
+workshop:
+  category: "copilot-ai"
+  language: "Python"
+  difficulty: "Beginner"
+  duration: "9-13 hours"
+  prerequisites:
+    - "GitHub Copilot subscription (Individual, Business, or Enterprise)"
+    - "Node.js 22 or later"
+    - "Git installed and configured"
+    - "Terminal (macOS/Linux) or PowerShell 6+ (Windows)"
+  hub_url: "https://shinyay.github.io/awesome-shinyay-workshop/"
+  show_toc: true
+  show_progress: true
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "workshop"
