@@ -1,6 +1,6 @@
 ---
 layout: step
-title: "Level 3: Plan — Think Before Acting"
+title: "Plan — Think Before Acting"
 step_number: 3
 permalink: /steps/3/
 ---
@@ -877,4 +877,4 @@ Rate yourself on each skill (1 = shaky, 3 = confident):
 
 **Level 4: Create — Make Your First Changes** is where plans become reality. You'll approve plans and watch Copilot implement them, learning the approval flow, `/diff`, and `/review` in the process.
 
-→ Continue to `workshop/level-4/README.md`
+→ [Continue to Level 4: Create →](/steps/4/)

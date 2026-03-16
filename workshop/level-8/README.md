@@ -1,6 +1,6 @@
 ---
 layout: step
-title: "Level 8: Advanced — Permissions, Sessions & Delegation"
+title: "Advanced — Delegation"
 step_number: 8
 permalink: /steps/8/
 ---

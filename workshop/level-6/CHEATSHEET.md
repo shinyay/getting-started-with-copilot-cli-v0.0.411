@@ -1,3 +1,10 @@
+---
+layout: cheatsheet
+title: "Level 6 — Workflow Cheat Sheet"
+parent_step: 6
+permalink: /cheatsheet/6/
+---
+
 # Level 6 Cheat Sheet — Complete Workflows
 
 ## The 7 Workflow Types

@@ -1,6 +1,6 @@
 ---
 layout: step
-title: "Level 6: Workflow — The Full Plan → Execute → Review Cycle"
+title: "Workflow — Full Cycle"
 step_number: 6
 permalink: /steps/6/
 ---
@@ -1078,4 +1078,4 @@ Rate yourself on each skill (1 = shaky, 3 = confident):
 
 **Level 7: Customize — MCP Servers & Context Optimization** teaches you to extend Copilot with external tools (MCP servers), optimize context window usage, and configure Copilot for your specific workflow.
 
-→ Continue to `workshop/level-7/README.md`
+→ [Continue to Level 7: Customize →](/steps/7/)

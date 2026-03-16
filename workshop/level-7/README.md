@@ -1,6 +1,6 @@
 ---
 layout: step
-title: "Level 7: Customize — Make Copilot Work Your Way"
+title: "Customize — Make It Yours"
 step_number: 7
 permalink: /steps/7/
 ---
@@ -1028,4 +1028,4 @@ Rate yourself on each skill (1 = shaky, 3 = confident):
 
 **Level 8: Advanced — Copilot Coding Agent, ACP & SDK** explores GitHub's autonomous coding agent (works on issues/PRs), the Agent Control Plane (ACP) for building AI tools, and the Copilot SDK for custom integrations.
 
-→ Continue to `workshop/level-8/README.md`
+→ [Continue to Level 8: Advanced →](/steps/8/)

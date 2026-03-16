@@ -1,6 +1,6 @@
 ---
 layout: step
-title: "Level 2: Understand — Ask Questions & Get Explanations"
+title: "Understand — Ask Questions"
 step_number: 2
 permalink: /steps/2/
 ---
@@ -842,4 +842,4 @@ Rate yourself on each skill (1 = shaky, 3 = confident):
 
 **Level 3: Plan — Think Before Acting** takes you from understanding to planning. You'll learn to create, review, refine, and reject implementation plans using `/plan` — the critical skill that prevents runaway changes.
 
-→ Continue to `workshop/level-3/README.md`
+→ [Continue to Level 3: Plan →](/steps/3/)
